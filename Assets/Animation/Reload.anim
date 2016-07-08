@@ -1,0 +1,841 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Reload
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.9538999, y: 0.6544, z: 18.5458}
+        inSlope: {x: -0.3146, y: -58.3368, z: 4.2677994}
+        outSlope: {x: -0.3146, y: -58.3368, z: 4.2677994}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 2.7965999, y: -28.514, z: 20.679699}
+        inSlope: {x: -0.062920004, y: -11.66736, z: 0.85356}
+        outSlope: {x: -0.062920004, y: -11.66736, z: 0.85356}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: 2.9538999, y: 0.6544, z: 18.5458}
+        inSlope: {x: 0.18875998, y: 35.00208, z: -2.5606794}
+        outSlope: {x: 0.18875998, y: 35.00208, z: -2.5606794}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 78.4052, y: 182.4435, z: 271.53848}
+        inSlope: {x: -73.2402, y: 499.67416, z: 320.02582}
+        outSlope: {x: -73.2402, y: 499.67416, z: 320.02582}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 41.7851, y: 432.28058, z: 431.5514}
+        inSlope: {x: -39.3636, y: 314.66473, z: 193.44339}
+        outSlope: {x: -39.3636, y: 314.66473, z: 193.44339}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 40.870598, y: 453.8898, z: 442.6949}
+        inSlope: {x: 25.407446, y: -138.75705, z: -94.93681}
+        outSlope: {x: 25.407446, y: -138.75705, z: -94.93681}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: 78.4052, y: 182.4435, z: 271.53848}
+        inSlope: {x: 56.3019, y: -407.16943, z: -256.7346}
+        outSlope: {x: 56.3019, y: -407.16943, z: -256.7346}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_LeftArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.2418, y: 11.7891, z: 4.4894}
+        inSlope: {x: -5.59245, y: 21.746847, z: -8.307149}
+        outSlope: {x: -5.59245, y: 21.746847, z: -8.307149}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -3.4865, y: 26.286999, z: -1.0487}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: 0.2418, y: 11.7891, z: 4.4894}
+        inSlope: {x: 5.59245, y: -21.746847, z: 8.307149}
+        outSlope: {x: 5.59245, y: -21.746847, z: 8.307149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.004000089, y: 0.31699905, z: -0.025999919}
+        inSlope: {x: -0.00000026915222, y: -0.000011920929, z: 0.00000086426735}
+        outSlope: {x: -0.00000026915222, y: -0.000011920929, z: 0.00000086426735}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: -0.0040002237, y: 0.3169931, z: -0.025999486}
+        inSlope: {x: -0.000000053830448, y: -0.000002384186, z: 0.00000017285348}
+        outSlope: {x: -0.000000053830448, y: -0.000002384186, z: 0.00000017285348}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: -0.004000089, y: 0.31699905, z: -0.025999919}
+        inSlope: {x: 0.00000016149133, y: 0.000007152557, z: -0.0000005185604}
+        outSlope: {x: 0.00000016149133, y: 0.000007152557, z: -0.0000005185604}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.17394263, y: 1.4296803, z: -0.058093347}
+        inSlope: {x: -0.050707493, y: -0.9147801, z: -2.0586524}
+        outSlope: {x: -0.050707493, y: -0.9147801, z: -2.0586524}
+        tangentMode: 0
+      - time: 0.31666666
+        value: {x: -0.19, y: 1.14, z: -0.71}
+        inSlope: {x: -0.18080828, y: -0.47375378, z: -0.5056899}
+        outSlope: {x: -0.18080828, y: -0.47375378, z: -0.5056899}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: -0.247, y: 1.134, z: -0.518}
+        inSlope: {x: 0.5135454, y: 1.0276363, z: 0.9676362}
+        outSlope: {x: 0.5135454, y: 1.0276363, z: 0.9676362}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.024, y: 1.482, z: -0.37}
+        inSlope: {x: 0.7097999, y: 0.5016, z: 0.29999995}
+        outSlope: {x: 0.7097999, y: 0.5016, z: 0.29999995}
+        tangentMode: 0
+      - time: 1.0833334
+        value: {x: 0.01, y: 1.03, z: -0.49}
+        inSlope: {x: -0.32708526, y: 0.25696075, z: 0.71981335}
+        outSlope: {x: -0.32708526, y: 0.25696075, z: 0.71981335}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: -0.17394263, y: 1.4296803, z: -0.058093347}
+        inSlope: {x: -0.7357705, y: 1.5987215, z: 1.7276267}
+        outSlope: {x: -0.7357705, y: 1.5987215, z: 1.7276267}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_LeftArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.000000016018747, y: 0.2491752, z: -0.00000016778706}
+        inSlope: {x: -0.0000011235986, y: 0.000005610287, z: -0.00000075074394}
+        outSlope: {x: -0.0000011235986, y: 0.000005610287, z: -0.00000075074394}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.00000076508456, y: 0.24917895, z: -0.000000668283}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: -0.000000016018747, y: 0.2491752, z: -0.00000016778706}
+        inSlope: {x: 0.0000011235986, y: -0.000005610287, z: 0.00000075074394}
+        outSlope: {x: 0.0000011235986, y: -0.000005610287, z: 0.00000075074394}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3488499224
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3746791017
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1159200577
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3488499224
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3746791017
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1159200577
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.3333334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.9538999
+        inSlope: -0.3146
+        outSlope: -0.3146
+        tangentMode: 10
+      - time: 0.5
+        value: 2.7965999
+        inSlope: -0.062920004
+        outSlope: -0.062920004
+        tangentMode: 10
+      - time: 1.3333334
+        value: 2.9538999
+        inSlope: 0.18875998
+        outSlope: 0.18875998
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.6544
+        inSlope: -58.3368
+        outSlope: -58.3368
+        tangentMode: 10
+      - time: 0.5
+        value: -28.514
+        inSlope: -11.66736
+        outSlope: -11.66736
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.6544
+        inSlope: 35.00208
+        outSlope: 35.00208
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 18.5458
+        inSlope: 4.2677994
+        outSlope: 4.2677994
+        tangentMode: 10
+      - time: 0.5
+        value: 20.679699
+        inSlope: 0.85356
+        outSlope: 0.85356
+        tangentMode: 10
+      - time: 1.3333334
+        value: 18.5458
+        inSlope: -2.5606794
+        outSlope: -2.5606794
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.004000089
+        inSlope: -0.00000026915222
+        outSlope: -0.00000026915222
+        tangentMode: 10
+      - time: 0.5
+        value: -0.0040002237
+        inSlope: -0.000000053830448
+        outSlope: -0.000000053830448
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.004000089
+        inSlope: 0.00000016149133
+        outSlope: 0.00000016149133
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.31699905
+        inSlope: -0.000011920929
+        outSlope: -0.000011920929
+        tangentMode: 10
+      - time: 0.5
+        value: 0.3169931
+        inSlope: -0.000002384186
+        outSlope: -0.000002384186
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.31699905
+        inSlope: 0.000007152557
+        outSlope: 0.000007152557
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.025999919
+        inSlope: 0.00000086426735
+        outSlope: 0.00000086426735
+        tangentMode: 10
+      - time: 0.5
+        value: -0.025999486
+        inSlope: 0.00000017285348
+        outSlope: 0.00000017285348
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.025999919
+        inSlope: -0.0000005185604
+        outSlope: -0.0000005185604
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 78.4052
+        inSlope: -73.2402
+        outSlope: -73.2402
+        tangentMode: 10
+      - time: 0.5
+        value: 41.7851
+        inSlope: -39.3636
+        outSlope: -39.3636
+        tangentMode: 10
+      - time: 0.6666667
+        value: 40.870598
+        inSlope: 25.407446
+        outSlope: 25.407446
+        tangentMode: 10
+      - time: 1.3333334
+        value: 78.4052
+        inSlope: 56.3019
+        outSlope: 56.3019
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 182.4435
+        inSlope: 499.67416
+        outSlope: 499.67416
+        tangentMode: 10
+      - time: 0.5
+        value: 432.28058
+        inSlope: 314.66473
+        outSlope: 314.66473
+        tangentMode: 10
+      - time: 0.6666667
+        value: 453.8898
+        inSlope: -138.75705
+        outSlope: -138.75705
+        tangentMode: 10
+      - time: 1.3333334
+        value: 182.4435
+        inSlope: -407.16943
+        outSlope: -407.16943
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 271.53848
+        inSlope: 320.02582
+        outSlope: 320.02582
+        tangentMode: 10
+      - time: 0.5
+        value: 431.5514
+        inSlope: 193.44339
+        outSlope: 193.44339
+        tangentMode: 10
+      - time: 0.6666667
+        value: 442.6949
+        inSlope: -94.93681
+        outSlope: -94.93681
+        tangentMode: 10
+      - time: 1.3333334
+        value: 271.53848
+        inSlope: -256.7346
+        outSlope: -256.7346
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.17394263
+        inSlope: -0.050707493
+        outSlope: -0.050707493
+        tangentMode: 10
+      - time: 0.31666666
+        value: -0.19
+        inSlope: -0.18080828
+        outSlope: -0.18080828
+        tangentMode: 10
+      - time: 0.5
+        value: -0.247
+        inSlope: 0.5135454
+        outSlope: 0.5135454
+        tangentMode: 10
+      - time: 0.6666667
+        value: -0.024
+        inSlope: 0.7097999
+        outSlope: 0.7097999
+        tangentMode: 10
+      - time: 1.0833334
+        value: 0.01
+        inSlope: -0.32708526
+        outSlope: -0.32708526
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.17394263
+        inSlope: -0.7357705
+        outSlope: -0.7357705
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.4296803
+        inSlope: -0.9147801
+        outSlope: -0.9147801
+        tangentMode: 10
+      - time: 0.31666666
+        value: 1.14
+        inSlope: -0.47375378
+        outSlope: -0.47375378
+        tangentMode: 10
+      - time: 0.5
+        value: 1.134
+        inSlope: 1.0276363
+        outSlope: 1.0276363
+        tangentMode: 10
+      - time: 0.6666667
+        value: 1.482
+        inSlope: 0.5016
+        outSlope: 0.5016
+        tangentMode: 10
+      - time: 1.0833334
+        value: 1.03
+        inSlope: 0.25696075
+        outSlope: 0.25696075
+        tangentMode: 10
+      - time: 1.3333334
+        value: 1.4296803
+        inSlope: 1.5987215
+        outSlope: 1.5987215
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.058093347
+        inSlope: -2.0586524
+        outSlope: -2.0586524
+        tangentMode: 10
+      - time: 0.31666666
+        value: -0.71
+        inSlope: -0.5056899
+        outSlope: -0.5056899
+        tangentMode: 10
+      - time: 0.5
+        value: -0.518
+        inSlope: 0.9676362
+        outSlope: 0.9676362
+        tangentMode: 10
+      - time: 0.6666667
+        value: -0.37
+        inSlope: 0.29999995
+        outSlope: 0.29999995
+        tangentMode: 10
+      - time: 1.0833334
+        value: -0.49
+        inSlope: 0.71981335
+        outSlope: 0.71981335
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.058093347
+        inSlope: 1.7276267
+        outSlope: 1.7276267
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.2418
+        inSlope: -5.59245
+        outSlope: -5.59245
+        tangentMode: 10
+      - time: 0.6666667
+        value: -3.4865
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.2418
+        inSlope: 5.59245
+        outSlope: 5.59245
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 11.7891
+        inSlope: 21.746847
+        outSlope: 21.746847
+        tangentMode: 10
+      - time: 0.6666667
+        value: 26.286999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 11.7891
+        inSlope: -21.746847
+        outSlope: -21.746847
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.4894
+        inSlope: -8.307149
+        outSlope: -8.307149
+        tangentMode: 10
+      - time: 0.6666667
+        value: -1.0487
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 4.4894
+        inSlope: 8.307149
+        outSlope: 8.307149
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.000000016018747
+        inSlope: -0.0000011235986
+        outSlope: -0.0000011235986
+        tangentMode: 10
+      - time: 0.6666667
+        value: -0.00000076508456
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.000000016018747
+        inSlope: 0.0000011235986
+        outSlope: 0.0000011235986
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.2491752
+        inSlope: 0.000005610287
+        outSlope: 0.000005610287
+        tangentMode: 10
+      - time: 0.6666667
+        value: 0.24917895
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.2491752
+        inSlope: -0.000005610287
+        outSlope: -0.000005610287
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00000016778706
+        inSlope: -0.00000075074394
+        outSlope: -0.00000075074394
+        tangentMode: 10
+      - time: 0.6666667
+        value: -0.000000668283
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.00000016778706
+        inSlope: 0.00000075074394
+        outSlope: 0.00000075074394
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/mixamorig_RightArm/mixamorig_RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/mixamorig_LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
